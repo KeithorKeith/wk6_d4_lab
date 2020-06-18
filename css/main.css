@@ -1,3 +1,20 @@
-body {
+body { color: brown;
+  background-color: rgba(255, 222, 149, 0.719);
   font-family: Palatino;
+}
+input:hover{color: darkcyan;}
+e: none;}
+
+div.purple {
+  list-style: none;
+  padding: 2m;
+  border: 5m;
+  margin: 20m;
+  
+}
+
+div#reading-list {background-color: rgba(230, 227, 227, 0.445);
+  /* display: flex; */
+  color: darkgreen;
+  flex-wrap: wrap;
 }
